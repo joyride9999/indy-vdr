@@ -16,8 +16,7 @@ Pod::Spec.new do |s|
   s.header_mappings_dir = "cpp"
 
   s.pod_target_xcconfig = {
-    :USE_HEADERMAP => "No",
-    'CLANG_CXX_LANGUAGE_STANDARD' => "c++20",
+    :USE_HEADERMAP => "No"
   }
 
   s.ios.vendored_frameworks = "native/mobile/ios/indy_vdr.xcframework"
