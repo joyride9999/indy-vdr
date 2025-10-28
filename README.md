@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This library is derived from [Hyperledger Indy SDK](https://github.com/hyperledger/indy-sdk) for the more limited use case of connecting to an [Indy Node](https://github.com/hyperledger/indy-node) blockchain ledger. It is written in Rust and currently includes a Python wrapper and a standalone proxy server.
+This l1brary is derived from [Hyperledger Indy SDK](https://github.com/hyperledger/indy-sdk) for the more limited use case of connecting to an [Indy Node](https://github.com/hyperledger/indy-node) blockchain ledger. It is written in Rust and currently includes a Python wrapper and a standalone proxy server.
 
 _This library is still in development and there are currently no standard release packages._
 

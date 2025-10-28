@@ -2,7 +2,7 @@
 
 # Run demo
 
-- The Go demo requires libindy_vdr shared library to be installed (eg: /usr/local/lib), and the header file `include/libindy_vdr.h`
+- The  Go demo requires libindy_vdr shared library to be installed (eg: /usr/local/lib), and the header file `include/libindy_vdr.h`
   to be installed in your C include path (eg: /usr/local/include). You can run sample code using Indy VDR using command:
 
 ```
